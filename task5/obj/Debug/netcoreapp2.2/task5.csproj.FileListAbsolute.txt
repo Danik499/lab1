@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\c#\Новая папка\task5\bin\Debug\netcoreapp2.2\task5.deps.json
+C:\Users\User\Desktop\c#\Новая папка\task5\bin\Debug\netcoreapp2.2\task5.runtimeconfig.json
+C:\Users\User\Desktop\c#\Новая папка\task5\bin\Debug\netcoreapp2.2\task5.runtimeconfig.dev.json
+C:\Users\User\Desktop\c#\Новая папка\task5\bin\Debug\netcoreapp2.2\task5.dll
+C:\Users\User\Desktop\c#\Новая папка\task5\bin\Debug\netcoreapp2.2\task5.pdb
+C:\Users\User\Desktop\c#\Новая папка\task5\obj\Debug\netcoreapp2.2\task5.csprojAssemblyReference.cache
+C:\Users\User\Desktop\c#\Новая папка\task5\obj\Debug\netcoreapp2.2\task5.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\c#\Новая папка\task5\obj\Debug\netcoreapp2.2\task5.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\c#\Новая папка\task5\obj\Debug\netcoreapp2.2\task5.AssemblyInfo.cs
+C:\Users\User\Desktop\c#\Новая папка\task5\obj\Debug\netcoreapp2.2\task5.dll
+C:\Users\User\Desktop\c#\Новая папка\task5\obj\Debug\netcoreapp2.2\task5.pdb
